@@ -47,6 +47,6 @@ According to `Frontend` and `Backend` folder, build the webpage and database. Th
 - Backend: Python, SQLite 
 
 # License
-
+The Houniao Project is licensed under MIT License.
 
 Copyright © 2025 Wangzi Haoran, Jason Chen, Notting Xu, Yang Yanrui. All Rights Reserved.
